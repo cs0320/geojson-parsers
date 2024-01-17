@@ -1,8 +1,9 @@
-package edu.brown.cs32.main.datasource.geoMapIntegration;
+package org.example.geoMapIntegration.GeoMapCollection.GeoMap;
 
 import java.util.Map;
+import org.example.geoMapIntegration.GeoMapCollection.GeoMap.GeoMap;
 
-public class Property extends GeoMap{
+public class Property extends GeoMap {
 
   public String name;
   public String state;

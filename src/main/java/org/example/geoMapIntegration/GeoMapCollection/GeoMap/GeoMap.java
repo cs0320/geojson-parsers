@@ -1,5 +1,4 @@
-package edu.brown.cs32.main.datasource.geoMapIntegration;// package edu.brown.cs32.main.datasource.geoMapIntegration;
-
+package org.example.geoMapIntegration.GeoMapCollection.GeoMap;
 
 public class GeoMap {
   public String type;
