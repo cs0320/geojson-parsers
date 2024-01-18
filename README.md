@@ -10,6 +10,6 @@ Breakdown of files:
     - **GeoMapCollection** object
     - GeoMap folder:
         - **GeoMap** object
-        - **Geometry** object [Note: the geometry object includes a field called "type" but since type is used already, we don't parse for that, will need a better solution if we have time to think about it!]
+        - **Geometry** object 
         - **Property** object
  
