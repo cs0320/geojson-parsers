@@ -10,6 +10,6 @@ Breakdown of files:
     - **GeoMapCollection** object
     - GeoMap folder:
         - **GeoMap** object
-        - **Geometry** object 
+        - **Geometry** object [NOTE: When using the Moshi type method, you can't call "type" under geometry or there will be a bug]
         - **Property** object
  
