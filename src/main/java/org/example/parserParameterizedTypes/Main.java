@@ -1,4 +1,4 @@
-package org.example;
+package org.example.parserParameterizedTypes;
 
 import java.io.FileNotFoundException;
 import org.example.parserParameterizedTypes.GeoMapCollection.GeoMapCollection;
