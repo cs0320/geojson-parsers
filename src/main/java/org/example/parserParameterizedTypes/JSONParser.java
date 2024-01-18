@@ -1,10 +1,10 @@
-package org.example.geoMapIntegration;
+package org.example.parserParameterizedTypes;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMapCollection;
+import org.example.parserParameterizedTypes.GeoMapCollection.GeoMapCollection;
 
 public class JSONParser {
   private GeoMapCollection data;

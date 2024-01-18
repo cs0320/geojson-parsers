@@ -1,4 +1,4 @@
-package org.example.geoMapIntegration.GeoMapCollection.GeoMap;
+package org.example.parserParameterizedTypes.GeoMapCollection.GeoMap;
 
 public class GeoMap {
   public String type;

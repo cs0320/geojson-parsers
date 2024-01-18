@@ -1,7 +1,6 @@
-package org.example.geoMapIntegration.GeoMapCollection.GeoMap;
+package org.example.parserParameterizedTypes.GeoMapCollection.GeoMap;
 
 import java.util.List;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMap.GeoMap;
 
 public class Geometry extends GeoMap {
   //  public String type;

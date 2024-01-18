@@ -1,8 +1,8 @@
 package org.example;
 
 import java.io.FileNotFoundException;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMapCollection;
-import org.example.geoMapIntegration.JSONParser;
+import org.example.parserParameterizedTypes.GeoMapCollection.GeoMapCollection;
+import org.example.parserParameterizedTypes.JSONParser;
 
 public class Main {
 

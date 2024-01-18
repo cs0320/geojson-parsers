@@ -1,7 +1,6 @@
-package org.example.geoMapIntegration.GeoMapCollection.GeoMap;
+package org.example.parserParameterizedTypes.GeoMapCollection.GeoMap;
 
 import java.util.Map;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMap.GeoMap;
 
 public class Property extends GeoMap {
 

@@ -1,4 +1,4 @@
-package org.example.geoMapIntegration;
+package org.example.parserParameterizedTypes;
 
 import com.squareup.moshi.FromJson;
 import com.squareup.moshi.JsonAdapter;
@@ -9,10 +9,10 @@ import com.squareup.moshi.Types;
 import java.io.IOException;
 import java.lang.reflect.Type;
 import java.util.List;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMap.GeoMap;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMap.Geometry;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMap.Property;
-import org.example.geoMapIntegration.GeoMapCollection.GeoMapCollection;
+import org.example.parserParameterizedTypes.GeoMapCollection.GeoMap.GeoMap;
+import org.example.parserParameterizedTypes.GeoMapCollection.GeoMap.Geometry;
+import org.example.parserParameterizedTypes.GeoMapCollection.GeoMap.Property;
+import org.example.parserParameterizedTypes.GeoMapCollection.GeoMapCollection;
 
 public class GeoMapAdapter {
 
